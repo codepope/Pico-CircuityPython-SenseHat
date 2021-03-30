@@ -6,9 +6,9 @@ A first pass at driving a SenseHat with a Pico via the Pico2Zero adapter.
 
 ### Libraries
 
-adafruit_lps2x
-adafruit_hts221
-adafruit_lsm9ds1
+* adafruit_lps2x
+* adafruit_hts221
+* adafruit_lsm9ds1
 
 ### Code
 
